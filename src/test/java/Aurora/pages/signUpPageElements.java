@@ -1,4 +1,4 @@
-package starter.pages;
+package Aurora.pages;
 
 import org.openqa.selenium.By;
 
